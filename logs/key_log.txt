@@ -1,0 +1,19 @@
+
+--- Switched to: Google Chrome - chrome://newtab/ ---
+[2025-07-23 12:30:21] (Google Chrome - chrome://newtab/) f
+[2025-07-23 12:30:22] (Google Chrome - chrome://newtab/) l
+[2025-07-23 12:30:22] (Google Chrome - chrome://newtab/) i
+[2025-07-23 12:30:22] (Google Chrome - chrome://newtab/) p
+[2025-07-23 12:30:22] (Google Chrome - chrome://newtab/) k
+[2025-07-23 12:30:23] (Google Chrome - chrome://newtab/) a
+[2025-07-23 12:30:23] (Google Chrome - chrome://newtab/) r
+[2025-07-23 12:30:23] (Google Chrome - chrome://newtab/) t
+
+--- Switched to: Google Chrome - https://www.google.com/search?q=flipkart&rlz=1C5CHFA_enIN1066IN1068&oq=flipkart&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyFQgBEC4YFBjHARiHAhixAxjRAxiABDIGCAIQRRhAMgwIAxAAGEMYgAQYigUyEwgEEAAYgwEYkQIYsQMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMTQxajBqN6gCCLACAfEFmYImwcpjijLxBZmCJsHKY4oy&sourceid=chrome&ie=UTF-8 ---
+[2025-07-23 12:30:24] (Google Chrome - https://www.google.com/search?q=flipkart&rlz=1C5CHFA_enIN1066IN1068&oq=flipkart&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyFQgBEC4YFBjHARiHAhixAxjRAxiABDIGCAIQRRhAMgwIAxAAGEMYgAQYigUyEwgEEAAYgwEYkQIYsQMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMTQxajBqN6gCCLACAfEFmYImwcpjijLxBZmCJsHKY4oy&sourceid=chrome&ie=UTF-8) [Key.enter]
+
+--- Switched to: Google Chrome - https://www.flipkart.com/ ---
+[2025-07-23 12:30:39] (Google Chrome - https://www.flipkart.com/) [Key.ctrl]
+
+--- Switched to: Google Chrome ---
+[2025-07-23 12:30:39] (Google Chrome) c
